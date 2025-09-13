@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\USER\eclipse-workspace\rayo\.metadata\.plugins\org.eclipse.jdt.core
+3080825559.index
+1542026658.index
+2058645774.index
+2178781675.index
+1865797976.index
